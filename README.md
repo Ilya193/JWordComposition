@@ -1,1 +1,1 @@
-[jwordcomposition.png](jwordcomposition.png)
+![jwordcomposition.png](jwordcomposition.png)
